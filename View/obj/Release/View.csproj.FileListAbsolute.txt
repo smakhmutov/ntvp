@@ -1,0 +1,14 @@
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Release\View.csprojAssemblyReference.cache
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Release\View.AddForm.resources
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Release\View.MainForm.resources
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Release\View.Properties.Resources.resources
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Release\View.SearchForm.resources
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Release\View.csproj.GenerateResource.cache
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Release\View.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Release\View.csprojAssemblyReference.cache
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Release\View.AddForm.resources
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Release\View.MainForm.resources
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Release\View.Properties.Resources.resources
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Release\View.SearchForm.resources
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Release\View.csproj.GenerateResource.cache
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Release\View.csproj.CoreCompileInputs.cache

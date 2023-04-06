@@ -1,0 +1,58 @@
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\bin\Debug\View.exe.config
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\bin\Debug\View.exe
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\bin\Debug\View.pdb
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\bin\Debug\Model.dll
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\bin\Debug\Model.pdb
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Debug\View.csprojAssemblyReference.cache
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Debug\View.AddForm.resources
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Debug\View.MainForm.resources
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Debug\View.Properties.Resources.resources
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Debug\View.SearchForm.resources
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Debug\View.csproj.GenerateResource.cache
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Debug\View.csproj.CopyComplete
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Debug\View.exe
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\View\obj\Debug\View.pdb
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\View\bin\Debug\View.exe.config
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\View\bin\Debug\View.exe
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\View\bin\Debug\View.pdb
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\View\bin\Debug\Model.dll
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\View\bin\Debug\Model.pdb
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.AddForm.resources
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.MainForm.resources
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.SearchForm.resources
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.exe
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.pdb
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\View\bin\Debug\View.exe.config
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\View\bin\Debug\View.exe
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\View\bin\Debug\View.pdb
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\View\bin\Debug\Model.dll
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\View\bin\Debug\Model.pdb
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.AddForm.resources
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.MainForm.resources
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.SearchForm.resources
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.exe
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\View\obj\Debug\View.pdb
+C:\Users\Sergey\Downloads\LR\LR_2\View\bin\Debug\View.exe.config
+C:\Users\Sergey\Downloads\LR\LR_2\View\bin\Debug\View.exe
+C:\Users\Sergey\Downloads\LR\LR_2\View\bin\Debug\View.pdb
+C:\Users\Sergey\Downloads\LR\LR_2\View\bin\Debug\Model.dll
+C:\Users\Sergey\Downloads\LR\LR_2\View\bin\Debug\Model.pdb
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Debug\View.AddForm.resources
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Debug\View.MainForm.resources
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Debug\View.SearchForm.resources
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Debug\View.exe
+C:\Users\Sergey\Downloads\LR\LR_2\View\obj\Debug\View.pdb

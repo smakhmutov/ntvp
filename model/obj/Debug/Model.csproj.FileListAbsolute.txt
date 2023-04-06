@@ -1,0 +1,16 @@
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\Model\bin\Debug\Model.dll
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\Model\bin\Debug\Model.pdb
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\Model\obj\Debug\Model.dll
+D:\Учеба\НТВП\Новая папка\лабы все\лабы все\2\2\ЛР 2\ЛР 2\Model\obj\Debug\Model.pdb
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\Model\obj\Debug\Model.dll
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\Model\obj\Debug\Model.pdb
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\Model\bin\Debug\Model.dll
+C:\Users\RAMIL\Desktop\ЛР 2_Махмутов_С\Model\bin\Debug\Model.pdb
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\Model\obj\Debug\Model.dll
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\Model\obj\Debug\Model.pdb
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\Model\bin\Debug\Model.dll
+C:\Users\islamov.IAE\Desktop\ЛР 2_Махмутов_С\Model\bin\Debug\Model.pdb
