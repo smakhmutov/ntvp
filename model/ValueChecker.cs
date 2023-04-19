@@ -1,5 +1,5 @@
 ﻿using System;
-
+///Добавил комментарий. Это надо для ЛР3
 namespace Model
 {
     /// <summary>
